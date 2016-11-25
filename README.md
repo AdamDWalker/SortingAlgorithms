@@ -3,7 +3,7 @@ This is a collection of my own implementations of classic sorting algorithms, wr
 
 The algorithms are: 
 
-	- Bubble Sort
+	- Bubble Sort  -  Completed 24/11/16
 	- Quick Sort // Not started
 	- Insertion Sort // Not started
 	- Heap Sort // Not started
