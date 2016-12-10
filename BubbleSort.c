@@ -1,5 +1,8 @@
-/* Simple C implementation of the bubble sort algorithm.
-   Written by Adam Walker 24/11/2016 */
+/*
+ * Simple C implementation of the bubble sort algorithm.
+ * Written by Adam Walker 24/11/2016
+ */
+
 #include <stdio.h>
 
 int* bubbleSort(int*, int);
