@@ -8,6 +8,6 @@ quickSort:	QuickSort.c
 
 clean:
 		rm	-f	BubbleSort
-		rm	-r	BubbleSort.dSYM/
+		rm	-rf	BubbleSort.dSYM/
 		rm	-f	QuickSort
-		rm	-r	QuickSort.dSYM/
+		rm	-rf	QuickSort.dSYM/
